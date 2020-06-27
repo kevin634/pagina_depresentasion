@@ -1,0 +1,34 @@
+img
+    {
+        width: 30%; height: 30%;
+        display:block;
+        margin:auto;
+      
+      }
+.fotos2{
+    width: 35%; height: 35%;
+    display:block;
+ margin:auto;
+}
+a{
+    display: inline-block;
+    width: 150%;
+    height: 150%;
+    color: chartreuse;
+    margin-left: 50%;
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+  
+}
+p{
+    text-align: center;
+    color: white;
+}
+h2{
+   
+        text-align: center;
+        color: white;
+}
+body { background-color: black; }
